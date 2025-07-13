@@ -753,7 +753,7 @@ function sysctl_parameters() {
 	return [];
 }
 
-/** Replace function remove_etc_hosts_entry for easyengine-docker
+/**
  * Removes entry of the site from /etc/hosts
  *
  * @param string $site_url site name.
